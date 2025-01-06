@@ -19,7 +19,12 @@
   </properties>
 
   <dependencies>
+<<<<<<< HEAD
   <dependency>
+=======
+
+    <dependency>
+>>>>>>> f2df78df6bf8951afdc3dc85361776b93071a8bf
     <groupId>org.projectlombok</groupId>
     <artifactId>lombok</artifactId>
     <version>1.18.24</version> <!-- Make sure to use the latest version -->
